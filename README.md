@@ -3,8 +3,13 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/mishrashivamgg/Desktop/Mobils-Sales/main/Image/Dashboard.png" width="300"/></td>
+        <td><img src="https://github.com/mishrashivamgg/Mobil-Sales/blob/main/Image/Dashboard.png" width="300"/></td>
         <td><img src="https://github.com/mishrashivamgg/Mobil-Sales/blob/main/Image/MTD%20Report.png" width="300"/></td>
+        <td><img src="https://github.com/mishrashivamgg/Mobil-Sales/blob/main/Image/Same%20Period%20Last%20Year.png" width="300"/></td>
+        
+        
+        
+        
     </tr>
 
 <tr>
