@@ -1,4 +1,4 @@
-## Mobils Sales DashBoard
+## Mobiles Sales DashBoard
 [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiZTVjN2M1NWUtMzMyYi00MWRlLWFiYmMtYzdhOTkyNmJiMWU4IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
 
 <table>
