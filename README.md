@@ -46,7 +46,7 @@ Brand: Offers the option to filter data by the brand of the mobile devices.
 MTD Report: Likely refers to a Month-to-Date report, summarizing the sales performance for the current month.
 Same Period Last Year: Presumably, this section would compare the current period's sales figures with those from the same period in the previous year.
 
-Filters:
+**Filters:**
 
 Mobile Model: Allow users to filter data by specific mobile models.
 Payment Method: Enable filtering based on the payment method used in transactions.
