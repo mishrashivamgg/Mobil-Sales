@@ -3,7 +3,7 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/mishrashivamgg/Desktop/Mobils-Sales/main/Image/Dashboard.png"" width="300"/></td>
+        <td><img src="https://github.com/mishrashivamgg/Desktop/Mobils-Sales/main/Image/Dashboard.png" width="300"/></td>
         <td><img src="https://github.com/mishrashivamgg/Mobial/blob/main/Images/Details.png" alt="deaths" width="300"/></td>
     </tr>
 
